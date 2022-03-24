@@ -17,7 +17,6 @@
     .lead {
         max-width: 768px;
         max-height: 862px;
-        margin-top: 48px;
     }
 }
 
@@ -25,6 +24,5 @@
     .lead {
         max-width: 320px;
         max-height: 406px;
-        margin-top: 48px;
     }
 }
