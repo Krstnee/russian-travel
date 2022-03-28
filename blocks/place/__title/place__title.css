@@ -8,6 +8,7 @@
     max-width: 460px;
     align-self:end;
     margin: 0;
+  
 }
 @media screen and (max-width:1279px){
     .place__title {
@@ -28,6 +29,8 @@
         max-width: 228px;
         font-size: 32px;
         line-height: 1.09;
+        padding-left: 16px;
+      
 /* identical to box height, or 109% */
     }
 }
